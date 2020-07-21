@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file. See [standa
 * **cli:** cli integ tests do not have a unique stack prefix ([#9165](https://github.com/aws/aws-cdk/issues/9165)) ([968c460](https://github.com/aws/aws-cdk/commit/968c460849fdd3bd0ad116ed86de7be55659fbe9))
 
 ## [1.52.0](https://github.com/aws/aws-cdk/compare/v1.51.0...v1.52.0) (2020-07-18)
-
+sf
 
 ### ⚠ BREAKING CHANGES
 
